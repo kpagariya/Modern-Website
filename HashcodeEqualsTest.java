@@ -22,3 +22,5 @@ public class HashcodeEqualsTest {
 		
 		System.out.println("ToString method return ->"+s1.toString());
 		System.out.println("========================================");
+	}
+}
